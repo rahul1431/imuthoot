@@ -1,0 +1,6 @@
+{
+  "name": "Muthoot Finance - iMuthoot App",
+  "description": "Interactive showcase application of Muthoot Finance iMuthoot featuring Gold Loans, Gold Rate Tracker, Loan Calculator, Quick Repayments, Branch Locator, and Doorstep Gold Loan booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
